@@ -18,9 +18,6 @@ Hands-on Docker lifecycle practice using Docker Desktop. Deployed and managed So
 - Troubleshot image and container conflicts
 
 ## Screenshots
-![Docker PS](screenshots/docker-ps.png)
-![SonarQube](screenshots/sonarqube-login.png)
-![Nginx](screenshots/nginx-running.png)
 
 ## Learning Outcome
 Strong understanding of Docker container lifecycle and real-world DevOps tooling.
