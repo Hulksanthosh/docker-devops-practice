@@ -1,24 +1,30 @@
-# Docker Lifecycle Project – SonarQube & Nginx
+# Docker DevOps Practice 🚀
 
-## Overview
-Hands-on Docker lifecycle practice using Docker Desktop. Deployed and managed SonarQube and Nginx containers with port mapping and container cleanup.
+## Project Overview
+This project demonstrates hands-on experience with Docker lifecycle commands,
+container management, and real-world services like Nginx and SonarQube using Docker Desktop.
 
-## Tools
+## Tools Used
+- Docker
 - Docker Desktop
-- SonarQube
 - Nginx
-- Ubuntu
-- Amazon Linux
+- SonarQube
+- Ubuntu & Amazon Linux containers
+- GitHub
 
 ## What I Did
+- Installed Docker and Docker Desktop
 - Pulled images from Docker Hub
 - Created and managed containers
-- Exposed services via ports
-- Removed containers and images safely
-- Troubleshot image and container conflicts
+- Exposed applications using port mapping
+- Hosted Nginx web server
+- Ran SonarQube for code quality analysis
+- Practiced container lifecycle (start, stop, pause, remove)
+- Managed Docker images and containers
 
 ## Screenshots
+See the `screenshots/` folder for proof of hands-on execution.
 
 ## Learning Outcome
-Strong understanding of Docker container lifecycle and real-world DevOps tooling.
-
+Gained strong fundamentals in Docker containerization,
+image management, and DevOps basics.
