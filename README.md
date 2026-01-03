@@ -23,7 +23,7 @@ container management, and real-world services like Nginx and SonarQube using Doc
 - Managed Docker images and containers
 
 ## Screenshots
-See the `screenshots/` folder for proof of hands-on execution.
+See the `screenshotsREADME.md/` folder for proof of hands-on execution.
 
 ## Learning Outcome
 Gained strong fundamentals in Docker containerization,
